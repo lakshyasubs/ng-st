@@ -1,0 +1,1 @@
+System.register(["./p-70876ef5.system.js"],(function(){"use strict";var t,e;return{setters:[function(n){t=n.p;e=n.b}],execute:function(){t().then((function(t){return e([["p-54obtlkr.system",[[1,"a-textbox",{fieldId:[1,"field-id"]}],[1,"my-component",{first:[1],middle:[1],last:[1]}]]]],t)}))}}}));
